@@ -1,0 +1,8 @@
+=============== Sep 24, 2019 (WIB) ===============
+13:15:21.493372 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:15:21.501780 db@open opening
+13:15:21.503142 version@stat F·[] S·0B[] Sc·[]
+13:15:21.511023 db@janitor F·2 G·0
+13:15:21.511521 db@open done T·9.232421ms
+13:17:09.464876 db@close closing
+13:17:09.465231 db@close done T·352.8µs
